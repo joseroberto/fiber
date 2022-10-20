@@ -13,8 +13,8 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/gofiber/fiber/v2/internal/uuid"
-	"github.com/gofiber/fiber/v2/utils"
+	"github.com/joseroberto/fiber/v2/internal/uuid"
+	"github.com/joseroberto/fiber/v2/utils"
 )
 
 // routeParser holds the path segments and param names

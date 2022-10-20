@@ -20,8 +20,8 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"github.com/gofiber/fiber/v2/internal/colorable"
-	"github.com/gofiber/fiber/v2/internal/isatty"
+	"github.com/joseroberto/fiber/v2/internal/colorable"
+	"github.com/joseroberto/fiber/v2/internal/isatty"
 )
 
 // Listener can be used to pass a custom listener.
