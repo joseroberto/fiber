@@ -1,4 +1,4 @@
-module github.com/gofiber/fiber/v2
+module github.com/joseroberto/fiber/v2
 
 go 1.19
 
